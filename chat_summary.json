@@ -18,5 +18,11 @@
         "content": "Great! Adding a button that says hello world now.",
         "timestamp": "25072024081226",
         "message_id": "guest25072024081224"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Show current Ethereum price widget\", \"checked\": true}, {\"feature\": \"Latest Ethereum transaction list\", \"checked\": true}, {\"feature\": \"Ethereum transaction search bar\", \"checked\": false}, {\"feature\": \"Notification toggle for high-value transactions\", \"checked\": false}, {\"feature\": \"Dark/Light mode toggle button\", \"checked\": true}, {\"feature\": \"User customizable Ethereum transaction alerts\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 93, \"time_taken\": \"0:00:04.681642\"}",
+        "timestamp": "25072024081232",
+        "message_id": "guest25072024081224"
     }
 ]
